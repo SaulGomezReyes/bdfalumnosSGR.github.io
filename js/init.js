@@ -8,11 +8,11 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-    apiKey: "AIzaSyBvqk0gH6mFFvHNRNlHfKaWwLPX62Uy_GI",
-    authDomain: "bfalumnos41.firebaseapp.com",
-    projectId: "bfalumnos41",
-    storageBucket: "bfalumnos41.appspot.com",
-    messagingSenderId: "977302937922",
-    appId: "1:977302937922:web:0694536fb9f3abaec0a8db",
-    measurementId: "G-4T0PFM1G87"
+    apiKey: "AIzaSyCArUiBeC-ba8T0Ve4b7IV1LyECF2BXb0Y",
+    authDomain: "bdfalumnossgr.firebaseapp.com",
+    projectId: "bdfalumnossgr",
+    storageBucket: "bdfalumnossgr.appspot.com",
+    messagingSenderId: "210772571436",
+    appId: "1:210772571436:web:2be1ef84408c366dcaa889",
+    measurementId: "G-5VJ6Y9TJMX"
 });
